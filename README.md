@@ -23,18 +23,29 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 - 🏗️ Feature-first structure, reusable widgets, maintainable code
 - 🌍 Arabic RTL + localization, accessible interfaces
 
-## 🧩 Toolkit
+## 🧩 Technical Skills
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-512BD4?style=flat-square)
-![Dio](https://img.shields.io/badge/Dio-0EA5E9?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-0F766E?style=flat-square)
-![RTL](https://img.shields.io/badge/Arabic_RTL-DB2777?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Flutter, Dart, and Android Studio" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and Visual Studio Code" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+
+<br /><br />
+
+<strong>State Management:</strong> BLoC · Cubit · Provider
+<br />
+<strong>Networking:</strong> REST APIs · Dio · HTTP
+<br />
+<strong>UI & Localization:</strong> Responsive UI · Arabic RTL · Dark Themes · Animations
 
 </div>
 
