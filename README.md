@@ -1,88 +1,140 @@
-# Hi there 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7B267&center=true&vCenter=true&width=800&lines=Flutter+Developer;Mobile+App+Engineer;AI+Driven+App+Builder" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/kholoudragheb">
-    <img src="https://img.shields.io/badge/GitHub-kholoudragheb-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/kholoudragheb/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kholoud%20Ragheb-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kholoudragheb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kholoudragheb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-## About Me
-
-I’m a passionate Flutter developer focused on creating modern, clean, and user-friendly mobile applications. I enjoy building apps that combine strong UI/UX, scalable architecture, and practical business logic.
-
-I’ve worked on projects in fitness, personal finance, smart home repair, and compiler fundamentals, which helped me build hands-on experience in both product design and development.
-
-## Skills
-
-### Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-6C63FF?style=for-the-badge)
-![BLoC](https://img.shields.io/badge/BLoC-512BD4?style=for-the-badge)
-![Cubit](https://img.shields.io/badge/Cubit-8A2BE2?style=for-the-badge)
-![REST%20API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge)
-![HTTP](https://img.shields.io/badge/HTTP-2C3E50?style=for-the-badge)
-
-### Tools & UX
-![Material%20Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## Featured Projects
-
 <div align="center">
 
-| Project | Description |
-|---|---|
-| [FitGlow](https://github.com/kholoudragheb/FitGlow) | Fitness and coaching platform with AI support, client/coach roles, booking, store, and progress tracking. |
-| [FixBox](https://github.com/kholoudragheb/FixBox) | AI-powered home repair app with smart scanner, maintenance guides, technicians directory, and marketplace. |
-| [walleta_app](https://github.com/kholoudragheb/walleta_app) | Personal finance app with Arabic RTL support, smart budgeting, reports, notifications, and AI insights. |
-| [scanner-of-the-C-Minus-compiler](https://github.com/kholoudragheb/scanner-of-the-C-Minus-compiler) | Compiler fundamentals project focused on lexical scanning and language analysis. |
+# ✦ KHLOود RAGHEB
+
+### Flutter Developer · Mobile App Engineer · Product-Minded Builder
+
+<p>
+  <em>Designing thoughtful mobile experiences with clean architecture, expressive interfaces, and real-world functionality.</em>
+</p>
+
+<p>
+  <a href="https://github.com/kholoudragheb"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:kholoudragheb@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:06B6D4&height=120&section=header" width="100%" alt="Decorative header" />
 
 </div>
 
-## Current Focus
+## ✦ A little about me
 
-- Advanced Flutter architecture and reusable app patterns
-- API integrations and real-world app logic
-- AI-powered mobile experiences
-- Clean, maintainable app design
-- Improving UI/UX and product thinking
+I’m a **Flutter Developer** who enjoys turning product ideas into polished, intuitive applications. My work combines modern UI/UX, structured state management, API integration, localization, and practical business logic.
 
-## GitHub Stats
+I’ve built projects across **fitness and coaching, personal finance, AI-assisted home repair, and compiler fundamentals**—always with a focus on making the final experience feel useful, clear, and memorable.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kholoudragheb&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kholoudragheb&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-## Profile Snapshot
+## ⚡ What I build
 
 ```text
-Flutter Developer
-├── Dart / Flutter / UI Design
-├── REST APIs / Provider / BLoC / Cubit
-├── Firebase / Git / GitHub
-├── Arabic RTL / Multilingual UI
-├── App Architecture & Clean Code
-└── AI-powered Product Ideas
+Mobile products       Cross-platform Flutter apps for Android, iOS & Web
+Beautiful interfaces  Responsive layouts, dark themes, animations & micro-interactions
+Smart functionality   AI-inspired assistants, analytics, dashboards & recommendation flows
+Solid foundations     Feature-first structure, reusable widgets & maintainable code
 ```
 
-Thanks for visiting my profile! 🚀
+## 🧩 Toolkit
 
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-512BD4?style=flat-square)
+![Cubit](https://img.shields.io/badge/Cubit-7C3AED?style=flat-square)
+![Provider](https://img.shields.io/badge/Provider-2563EB?style=flat-square)
+![Dio](https://img.shields.io/badge/Dio-0EA5E9?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-0F766E?style=flat-square)
+![Localization](https://img.shields.io/badge/Arabic_RTL-DB2777?style=flat-square)
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white)
+![Lottie](https://img.shields.io/badge/Lottie-00AEEF?style=flat-square)
+![fl_chart](https://img.shields.io/badge/fl__chart-16A34A?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+## 🚀 Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️ FitGlow
+
+A complete fitness and coaching ecosystem connecting coaches and clients.
+
+`Flutter` `BLoC/Cubit` `Provider` `REST APIs`
+
+**Includes:** AI fitness assistant, workout and nutrition experiences, coach booking, chat, progress tracking, store, and checkout.
+
+[Explore FitGlow →](https://github.com/kholoudragheb/FitGlow)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ FixBox
+
+A smart home repair and technical maintenance experience powered by an AI repair assistant.
+
+`Flutter` `Dart` `Custom UI` `AI concepts`
+
+**Includes:** issue scanner, troubleshooting guides, technicians directory, marketplace, authentication, and bilingual account flows.
+
+[Explore FixBox →](https://github.com/kholoudragheb/FixBox)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👛 Walleta
+
+An Arabic-first personal finance experience designed for clearer money decisions.
+
+`Flutter` `Provider` `RTL` `intl`
+
+**Includes:** budgets, transactions, voice expense flow, reports, spending insights, notifications, and dark-mode visuals.
+
+[Explore Walleta →](https://github.com/kholoudragheb/walleta_app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 C-Minus Scanner
+
+A compiler fundamentals project focused on scanning and tokenizing the C-Minus language.
+
+`Compiler Fundamentals` `Lexical Analysis`
+
+A compact project demonstrating curiosity beyond app development and an interest in how languages work under the hood.
+
+[Explore the scanner →](https://github.com/kholoudragheb/scanner-of-the-C-Minus-compiler)
+
+</td>
+</tr>
+</table>
+
+## 🌱 Currently exploring
+
+- Scalable Flutter architecture and reusable design systems
+- Better API-driven product experiences
+- AI-powered features for mobile applications
+- Accessible, multilingual, and RTL-first interfaces
+- Stronger testing, performance, and production readiness
+
+## 📊 GitHub at a glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kholoudragheb&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&ring_color=67E8F9" alt="Kholoud's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kholoudragheb&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=CBD5E1" alt="Top languages" />
+</div>
+
+<div align="center">
+
+### ✨ Let’s build something meaningful
+
+<a href="https://github.com/kholoudragheb?tab=repositories">View my repositories</a> · <a href="mailto:kholoudragheb@gmail.com">Get in touch</a>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:111827&height=100&section=footer" width="100%" alt="Decorative footer" />
+
+</div>
