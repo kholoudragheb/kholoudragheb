@@ -27,13 +27,15 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,github,vscode,figma" alt="Flutter, Dart, Android Studio, Git, GitHub, VS Code, Figma" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,github,vscode,figma,firebase,aws" alt="Flutter, Dart, Android Studio, Git, GitHub, VS Code, Figma, Firebase, and AWS" />
 
 <br /><br />
 
 <strong>State Management:</strong> BLoC · Cubit · Provider
 <br />
-<strong>Networking:</strong> REST APIs · Dio · HTTP
+<strong>Integrations:</strong> REST APIs · Firebase · Dio · HTTP
+<br />
+<strong>Cloud:</strong> Firebase Services · AWS · Cloud Services
 <br />
 <strong>UI & Localization:</strong> Responsive UI · Arabic RTL · Dark Themes · Animations
 
