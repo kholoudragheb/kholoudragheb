@@ -50,16 +50,9 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 <h3>🏋️ FitGlow</h3>
 
 <p>Fitness and coaching platform connecting coaches and clients.</p>
-
 <img src="https://skillicons.dev/icons?i=flutter,dart" height="30" alt="Flutter and Dart" />
-
 <p><code>BLoC/Cubit</code> <code>REST APIs</code> <code>AI Features</code></p>
-
-<ul>
-<li>AI fitness assistant, workouts, and nutrition flows</li>
-<li>Coach booking, chat, progress tracking, store, and checkout</li>
-</ul>
-
+<ul><li>AI fitness assistant, workouts, and nutrition flows</li><li>Coach booking, chat, progress tracking, store, and checkout</li></ul>
 <a href="https://github.com/kholoudragheb/FitGlow"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View FitGlow repository" /></a>
 
 </td>
@@ -68,16 +61,9 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 <h3>🛠️ FixBox</h3>
 
 <p>Smart home repair platform with an AI repair assistant.</p>
-
 <img src="https://skillicons.dev/icons?i=flutter,dart" height="30" alt="Flutter and Dart" />
-
 <p><code>Custom UI</code> <code>AI Concepts</code> <code>Marketplace</code></p>
-
-<ul>
-<li>Issue scanner and step-by-step troubleshooting guides</li>
-<li>Technicians directory, marketplace, authentication, and bilingual flows</li>
-</ul>
-
+<ul><li>Issue scanner and step-by-step troubleshooting guides</li><li>Technicians directory, marketplace, authentication, and bilingual flows</li></ul>
 <a href="https://github.com/kholoudragheb/FixBox"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View FixBox repository" /></a>
 
 </td>
@@ -88,16 +74,9 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 <h3>👛 Walleta</h3>
 
 <p>Arabic-first personal finance app for clearer money decisions.</p>
-
 <img src="https://skillicons.dev/icons?i=flutter,dart" height="30" alt="Flutter and Dart" />
-
 <p><code>Provider</code> <code>RTL</code> <code>intl</code></p>
-
-<ul>
-<li>Budgets, transactions, voice expense logging, reports, and insights</li>
-<li>Notifications, profile management, and dark-mode visuals</li>
-</ul>
-
+<ul><li>Budgets, transactions, voice expense logging, reports, and insights</li><li>Notifications, profile management, and dark-mode visuals</li></ul>
 <a href="https://github.com/kholoudragheb/walleta_app"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Walleta repository" /></a>
 
 </td>
@@ -106,16 +85,9 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 <h3>🔍 C-Minus Scanner</h3>
 
 <p>Compiler fundamentals project for scanning and tokenizing C-Minus.</p>
-
 <img src="https://skillicons.dev/icons?i=dart" height="30" alt="Dart" />
-
 <p><code>Lexical Analysis</code> <code>Compiler Fundamentals</code></p>
-
-<ul>
-<li>Clean tokenization pipeline demonstrating CS fundamentals</li>
-<li>Explores language processing beyond mobile development</li>
-</ul>
-
+<ul><li>Clean tokenization pipeline demonstrating CS fundamentals</li><li>Explores language processing beyond mobile development</li></ul>
 <a href="https://github.com/kholoudragheb/scanner-of-the-C-Minus-compiler"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View C-Minus Scanner repository" /></a>
 
 </td>
@@ -126,24 +98,41 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 
 <div align="center">
 
-| 🏗️ Architecture | 🤖 AI Features | 🌍 Accessibility | ⚡ Quality |
-|:---:|:---:|:---:|:---:|
-| Scalable Flutter apps | Intelligent mobile experiences | RTL-first interfaces | Testing & performance |
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma,github" alt="Current technologies" />
+
+<br /><br />
+
+<table>
+<tr>
+<td align="center" width="25%"><strong>🏗️ Architecture</strong><br /><sub>Scalable Flutter apps</sub></td>
+<td align="center" width="25%"><strong>🤖 AI Features</strong><br /><sub>Intelligent mobile experiences</sub></td>
+<td align="center" width="25%"><strong>🌍 Accessibility</strong><br /><sub>RTL-first interfaces</sub></td>
+<td align="center" width="25%"><strong>⚡ Quality</strong><br /><sub>Testing & performance</sub></td>
+</tr>
+</table>
 
 </div>
 
-## 📊 GitHub at a Glance
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,25:22C55E,50:EAB308,75:EF4444,100:8B5CF6&height=4&section=header" width="90%" alt="Colorful divider" />
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kholoudragheb&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kholoudragheb&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=CBD5E1" alt="Top languages" />
+
+[![GitHub Profile](https://img.shields.io/badge/Explore_my_GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kholoudragheb)
+[![Repositories](https://img.shields.io/badge/View_Repositories-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kholoudragheb?tab=repositories)
+
+<br /><br />
+
+<sub>Building consistently, learning continuously, and turning ideas into useful products.</sub>
+
 </div>
 
 <div align="center">
 
 ### ✨ Let's build something meaningful
 
-[View repositories](https://github.com/kholoudragheb?tab=repositories) · [Get in touch](mailto:kholoudragheb@gmail.com)
+[Get in touch](mailto:kholoudragheb@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/khloud-ragheb-9038b4275/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:111827&height=100&section=footer" width="100%" alt="Decorative footer" />
 
