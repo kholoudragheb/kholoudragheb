@@ -40,8 +40,6 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 
 ## 🚀 Selected work
 
-> Replace demo links below with video / APK / screenshots.
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -53,7 +51,7 @@ Fitness & coaching ecosystem connecting coaches and clients.
 
 - AI fitness assistant + workout & nutrition flows
 - Coach booking, chat, progress tracking, store & checkout
-- [Repo →](https://github.com/kholoudragheb/FitGlow) · [Demo →](YOUR-DEMO-LINK)
+- [Repo →](https://github.com/kholoudragheb/FitGlow)
 
 </td>
 <td width="50%" valign="top">
@@ -65,7 +63,7 @@ Smart home repair with AI repair assistant.
 
 - Issue scanner + troubleshooting guides
 - Technicians directory, marketplace, auth, bilingual flows
-- [Repo →](https://github.com/kholoudragheb/FixBox) · [Demo →](YOUR-DEMO-LINK)
+- [Repo →](https://github.com/kholoudragheb/FixBox)
 
 </td>
 </tr>
@@ -79,7 +77,7 @@ Arabic-first finance for clearer money decisions.
 
 - Budgets, transactions, voice expense, reports & insights
 - Notifications + dark-mode visuals
-- [Repo →](https://github.com/kholoudragheb/walleta_app) · [Demo →](YOUR-DEMO-LINK)
+- [Repo →](https://github.com/kholoudragheb/walleta_app)
 
 </td>
 <td width="50%" valign="top">
@@ -95,12 +93,6 @@ Compiler fundamentals: scanner & tokenizer for C-Minus.
 </td>
 </tr>
 </table>
-
-## 📸 Preview
-
-| FitGlow | Walleta |
-|---|---|
-| ![FitGlow](YOUR-SCREENSHOT-1) | ![Walleta](YOUR-SCREENSHOT-2) |
 
 ## 🌱 Currently exploring
 
