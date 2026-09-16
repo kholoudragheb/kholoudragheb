@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="A random joke generator powered by JokeAPI." />
+  <title>Random Joke Generator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app-shell">
+    <section class="joke-card" aria-labelledby="page-title">
+      <div class="eyebrow">✨ Need a laugh?</div>
+      <h1 id="page-title">Random Joke Generator</h1>
+      <p class="subtitle">Fresh jokes, fetched from the JokeAPI.</p>
+
+      <div class="joke-box" aria-live="polite" aria-atomic="true">
+        <p id="joke-text">Click the button to get a joke!</p>
+      </div>
+
+      <p id="status" class="status" role="status"></p>
+      <button id="new-joke" class="joke-button" type="button">
+        <span aria-hidden="true">😂</span>
+        Tell me a joke
+      </button>
+      <p class="attribution">Powered by <a href="https://jokeapi.dev/" target="_blank" rel="noreferrer">JokeAPI</a></p>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
