@@ -27,21 +27,20 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,github,vscode,figma,firebase,googlecloud" alt="Flutter, Dart, Android Studio, Git, GitHub, VS Code, Figma, Firebase, and Google Cloud" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,github,vscode,figma,firebase" alt="Flutter, Dart, Android Studio, Git, GitHub, VS Code, Figma, and Firebase" />
 
 <br /><br />
 
-<a href="https://cloud.google.com/code"><img src="https://img.shields.io/badge/Cloud_Code-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Code" /></a>
-<a href="https://ai.google.dev/gemini-api/docs"><img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" /></a>
-<a href="https://cloud.google.com/vertex-ai"><img src="https://img.shields.io/badge/Google_Cloud_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud AI" /></a>
+<a href="https://claude.ai/new"><img src="https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" /></a>
+<a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity by Google" /></a>
 
 <br /><br />
 
 <strong>State Management:</strong> BLoC · Cubit · Provider
 <br />
-<strong>Integrations:</strong> REST APIs · Gemini API · Google APIs · Firebase · Dio · HTTP
+<strong>Integrations:</strong> REST APIs · Firebase · Dio · HTTP
 <br />
-<strong>Cloud & AI:</strong> Cloud Code · Google Cloud · Vertex AI · Gemini
+<strong>AI Tools:</strong> Claude AI · Antigravity by Google
 <br />
 <strong>UI & Localization:</strong> Responsive UI · Arabic RTL · Dark Themes · Animations
 
@@ -56,7 +55,6 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 <td width="50%" valign="top">
 
 <h3>🏋️ FitGlow</h3>
-
 <p>Fitness and coaching platform connecting coaches and clients.</p>
 <img src="https://skillicons.dev/icons?i=flutter,dart" height="30" alt="Flutter and Dart" />
 <p><code>BLoC/Cubit</code> <code>REST APIs</code> <code>AI Features</code></p>
@@ -67,7 +65,6 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 <td width="50%" valign="top">
 
 <h3>🛠️ FixBox</h3>
-
 <p>Smart home repair platform with an AI repair assistant.</p>
 <img src="https://skillicons.dev/icons?i=flutter,dart" height="30" alt="Flutter and Dart" />
 <p><code>Custom UI</code> <code>AI Concepts</code> <code>Marketplace</code></p>
@@ -80,7 +77,6 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 <td width="50%" valign="top">
 
 <h3>👛 Walleta</h3>
-
 <p>Arabic-first personal finance app for clearer money decisions.</p>
 <img src="https://skillicons.dev/icons?i=flutter,dart" height="30" alt="Flutter and Dart" />
 <p><code>Provider</code> <code>RTL</code> <code>intl</code></p>
@@ -91,7 +87,6 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 <td width="50%" valign="top">
 
 <h3>🔍 C-Minus Scanner</h3>
-
 <p>Compiler fundamentals project for scanning and tokenizing C-Minus.</p>
 <img src="https://skillicons.dev/icons?i=dart" height="30" alt="Dart" />
 <p><code>Lexical Analysis</code> <code>Compiler Fundamentals</code></p>
@@ -105,11 +100,8 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 ## 🌱 Currently Exploring
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=flutter,dart,figma,github" alt="Current technologies" />
-
 <br /><br />
-
 <table>
 <tr>
 <td align="center" width="25%"><strong>🏗️ Architecture</strong><br /><sub>Scalable Flutter apps</sub></td>
@@ -118,7 +110,6 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 <td align="center" width="25%"><strong>⚡ Quality</strong><br /><sub>Testing & performance</sub></td>
 </tr>
 </table>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,25:22C55E,50:EAB308,75:EF4444,100:8B5CF6&height=4&section=header" width="90%" alt="Colorful divider" />
@@ -126,14 +117,10 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 ## 📊 GitHub Activity
 
 <div align="center">
-
 [![GitHub Profile](https://img.shields.io/badge/Explore_my_GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kholoudragheb)
 [![Repositories](https://img.shields.io/badge/View_Repositories-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kholoudragheb?tab=repositories)
-
 <br /><br />
-
 <sub>Building consistently, learning continuously, and turning ideas into useful products.</sub>
-
 </div>
 
 <div align="center">
