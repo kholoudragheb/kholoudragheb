@@ -27,17 +27,7 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 
 <div align="center">
 
-### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Flutter, Dart, and Android Studio" />
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and Visual Studio Code" />
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,github,vscode,figma" alt="Flutter, Dart, Android Studio, Git, GitHub, VS Code, Figma" />
 
 <br /><br />
 
@@ -48,6 +38,8 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 <strong>UI & Localization:</strong> Responsive UI · Arabic RTL · Dark Themes · Animations
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,25:22C55E,50:EAB308,75:EF4444,100:8B5CF6&height=4&section=header" width="90%" alt="Animated colorful divider" />
 
 ## 🚀 Selected work
 
