@@ -39,72 +39,100 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,25:22C55E,50:EAB308,75:EF4444,100:8B5CF6&height=4&section=header" width="90%" alt="Animated colorful divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,25:22C55E,50:EAB308,75:EF4444,100:8B5CF6&height=4&section=header" width="90%" alt="Colorful divider" />
 
-## 🚀 Selected work
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏋️ FitGlow
-Fitness & coaching ecosystem connecting coaches and clients.
+<h3>🏋️ FitGlow</h3>
 
-`Flutter` `BLoC/Cubit` `REST APIs`
+<p>Fitness and coaching platform connecting coaches and clients.</p>
 
-- AI fitness assistant + workout & nutrition flows
-- Coach booking, chat, progress tracking, store & checkout
-- [Repo →](https://github.com/kholoudragheb/FitGlow)
+<img src="https://skillicons.dev/icons?i=flutter,dart" height="30" alt="Flutter and Dart" />
+
+<p><code>BLoC/Cubit</code> <code>REST APIs</code> <code>AI Features</code></p>
+
+<ul>
+<li>AI fitness assistant, workouts, and nutrition flows</li>
+<li>Coach booking, chat, progress tracking, store, and checkout</li>
+</ul>
+
+<a href="https://github.com/kholoudragheb/FitGlow"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View FitGlow repository" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ FixBox
-Smart home repair with AI repair assistant.
+<h3>🛠️ FixBox</h3>
 
-`Flutter` `Dart` `Custom UI`
+<p>Smart home repair platform with an AI repair assistant.</p>
 
-- Issue scanner + troubleshooting guides
-- Technicians directory, marketplace, auth, bilingual flows
-- [Repo →](https://github.com/kholoudragheb/FixBox)
+<img src="https://skillicons.dev/icons?i=flutter,dart" height="30" alt="Flutter and Dart" />
+
+<p><code>Custom UI</code> <code>AI Concepts</code> <code>Marketplace</code></p>
+
+<ul>
+<li>Issue scanner and step-by-step troubleshooting guides</li>
+<li>Technicians directory, marketplace, authentication, and bilingual flows</li>
+</ul>
+
+<a href="https://github.com/kholoudragheb/FixBox"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View FixBox repository" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 👛 Walleta
-Arabic-first finance for clearer money decisions.
+<h3>👛 Walleta</h3>
 
-`Flutter` `Provider` `RTL` `intl`
+<p>Arabic-first personal finance app for clearer money decisions.</p>
 
-- Budgets, transactions, voice expense, reports & insights
-- Notifications + dark-mode visuals
-- [Repo →](https://github.com/kholoudragheb/walleta_app)
+<img src="https://skillicons.dev/icons?i=flutter,dart" height="30" alt="Flutter and Dart" />
+
+<p><code>Provider</code> <code>RTL</code> <code>intl</code></p>
+
+<ul>
+<li>Budgets, transactions, voice expense logging, reports, and insights</li>
+<li>Notifications, profile management, and dark-mode visuals</li>
+</ul>
+
+<a href="https://github.com/kholoudragheb/walleta_app"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Walleta repository" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 C-Minus Scanner
-Compiler fundamentals: scanner & tokenizer for C-Minus.
+<h3>🔍 C-Minus Scanner</h3>
 
-`Dart` `Lexical Analysis`
+<p>Compiler fundamentals project for scanning and tokenizing C-Minus.</p>
 
-- Clean tokenization pipeline, shows CS depth beyond apps
-- [Repo →](https://github.com/kholoudragheb/scanner-of-the-C-Minus-compiler)
+<img src="https://skillicons.dev/icons?i=dart" height="30" alt="Dart" />
+
+<p><code>Lexical Analysis</code> <code>Compiler Fundamentals</code></p>
+
+<ul>
+<li>Clean tokenization pipeline demonstrating CS fundamentals</li>
+<li>Explores language processing beyond mobile development</li>
+</ul>
+
+<a href="https://github.com/kholoudragheb/scanner-of-the-C-Minus-compiler"><img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View C-Minus Scanner repository" /></a>
 
 </td>
 </tr>
 </table>
 
-## 🌱 Currently exploring
+## 🌱 Currently Exploring
 
-- Scalable Flutter architecture & design systems
-- AI-powered mobile features
-- RTL-first accessible interfaces
-- Testing & performance for production
+<div align="center">
 
-## 📊 GitHub at a glance
+| 🏗️ Architecture | 🤖 AI Features | 🌍 Accessibility | ⚡ Quality |
+|:---:|:---:|:---:|:---:|
+| Scalable Flutter apps | Intelligent mobile experiences | RTL-first interfaces | Testing & performance |
+
+</div>
+
+## 📊 GitHub at a Glance
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kholoudragheb&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1" alt="GitHub stats" />
