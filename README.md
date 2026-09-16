@@ -27,15 +27,21 @@ I'm a **Flutter Developer** focused on useful, clear, memorable apps. Built prod
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,github,vscode,figma,firebase,aws" alt="Flutter, Dart, Android Studio, Git, GitHub, VS Code, Figma, Firebase, and AWS" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,github,vscode,figma,firebase,googlecloud" alt="Flutter, Dart, Android Studio, Git, GitHub, VS Code, Figma, Firebase, and Google Cloud" />
+
+<br /><br />
+
+<a href="https://cloud.google.com/code"><img src="https://img.shields.io/badge/Cloud_Code-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Code" /></a>
+<a href="https://ai.google.dev/gemini-api/docs"><img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" /></a>
+<a href="https://cloud.google.com/vertex-ai"><img src="https://img.shields.io/badge/Google_Cloud_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud AI" /></a>
 
 <br /><br />
 
 <strong>State Management:</strong> BLoC · Cubit · Provider
 <br />
-<strong>Integrations:</strong> REST APIs · Firebase · Dio · HTTP
+<strong>Integrations:</strong> REST APIs · Gemini API · Google APIs · Firebase · Dio · HTTP
 <br />
-<strong>Cloud:</strong> Firebase Services · AWS · Cloud Services
+<strong>Cloud & AI:</strong> Cloud Code · Google Cloud · Vertex AI · Gemini
 <br />
 <strong>UI & Localization:</strong> Responsive UI · Arabic RTL · Dark Themes · Animations
 
